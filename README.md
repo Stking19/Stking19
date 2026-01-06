@@ -29,9 +29,11 @@ He/Him
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Stking19&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stking19&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stking19&layout=compact&theme=radical)
 
 ---
 
